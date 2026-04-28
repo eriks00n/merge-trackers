@@ -16,7 +16,7 @@ jobs:
           curl -s https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/trackers_all.txt > list1.txt
           curl -s https://raw.githubusercontent.com/XIU2/TrackersListCollection/refs/heads/master/all.txt > list2.txt
           
-          cat list1.txt list2.txt | grep -v '^$' | sort -u > combined_trackers.txt
+          cat list1.txt list2.txt | grep -v '^$' | sort -u | awk '{print $0 "\n"}' > combined_trackers.txt
           rm list1.txt list2.txt
 
       - name: Commit and Push
