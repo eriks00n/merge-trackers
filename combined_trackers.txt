@@ -8,6 +8,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://94.23.207.177:6969/announce
+
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -20,6 +22,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -28,11 +32,15 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.23794.top:6969/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -64,9 +72,13 @@ https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -104,6 +116,8 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -111,8 +125,6 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://ipv6.govt.hu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
@@ -136,8 +148,6 @@ udp://opentracker.lain.moscow:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://rekcart.duckdns.org:15480/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -160,6 +170,8 @@ udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -172,15 +184,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.farted.net:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
-
-udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -200,11 +210,13 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.teambelgium.net:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
@@ -223,8 +235,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v2.iperson.xyz:6969/announce
-
-udp://v6.vito-tracker.space:6969/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
